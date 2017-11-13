@@ -21,14 +21,19 @@ h2 {
 a {
   color: aquamarine;
   font-size: 16 px;
-  text-decoration: underline;
 }
 
 .gray {
   color: gray;
+  font-size: 21 px
 }
 
 .footer {
   text-align: right;
   color: gray;
+  fotn-size: 16px;
+}
+
+.underline{
+    text-decoration: underline;
 }
